@@ -8,8 +8,7 @@ Generative Adversarial Networks or GANs are based on a unique architecture where
 
 ## Project Report
 
-The Project report can be found at - [Project Report]([/Project Report for ECE 176.pdf](https://github.com/ParamChordiya/ECE-176---Project-UCSD/blob/master/Project%20Report%20for%20ECE%20176.pdf))
-
+The Project report can be found at - [Project Report](https://github.com/ParamChordiya/ECE-176---Project-UCSD/blob/master/Project%20Report%20for%20ECE%20176.pdf)
 ## Project Goals
 
 The primary objective of this project is to investigate and understand the implications of using U-Net as a discriminator in DC-GANs. Specifically, we aim to:
