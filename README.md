@@ -8,7 +8,7 @@ Generative Adversarial Networks or GANs are based on a unique architecture where
 
 ## Project Report
 
-The Project report can be found at - [Project Report](/Project Report for ECE 176.pdf)
+The Project report can be found at - [Project Report]([/Project Report for ECE 176.pdf](https://github.com/ParamChordiya/ECE-176---Project-UCSD/blob/master/Project%20Report%20for%20ECE%20176.pdf))
 
 ## Project Goals
 
